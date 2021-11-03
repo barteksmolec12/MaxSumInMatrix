@@ -1,0 +1,3 @@
+Uruchomienie z cmd: 
+
+np. Task3.exe dane.csv

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Accord.dll.config
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Accord.dll
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Accord.Math.Core.dll
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Accord.Math.dll
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Accord.xml
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Accord.Math.xml
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\bin\Debug\Accord.Math.Core.xml
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\obj\Debug\Task3.csproj.CopyComplete
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Dell\Desktop\STUDIA\studia magisterskie\1 sem\Optymalizacja kombinatoryczna\Zadanie 3\Task3\Task3\obj\Debug\Task3.pdb
